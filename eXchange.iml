@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="xchange-anx" />
+    <orderEntry type="module" module-name="xchange-bitbay" />
+    <orderEntry type="module" module-name="xchange-bitcoinaverage" />
+    <orderEntry type="module" module-name="xchange-bitcoincharts" />
+    <orderEntry type="module" module-name="xchange-bitcoinde" />
+    <orderEntry type="module" module-name="xchange-bitcoinium" />
+    <orderEntry type="module" module-name="xchange-bitcurex" />
+    <orderEntry type="module" module-name="xchange-bitfinex" />
+    <orderEntry type="module" module-name="xchange-bitkonan" />
+    <orderEntry type="module" module-name="xchange-bitmarket" />
+    <orderEntry type="module" module-name="xchange-bitso" />
+    <orderEntry type="module" module-name="xchange-bitstamp" />
+    <orderEntry type="module" module-name="xchange-bittrex" />
+    <orderEntry type="module" module-name="xchange-bleutrade" />
+    <orderEntry type="module" module-name="xchange-blockchain" />
+    <orderEntry type="module" module-name="xchange-btc38" />
+    <orderEntry type="module" module-name="xchange-btccentral" />
+    <orderEntry type="module" module-name="xchange-btcchina" />
+    <orderEntry type="module" module-name="xchange-btce" />
+    <orderEntry type="module" module-name="xchange-btcmarkets" />
+    <orderEntry type="module" module-name="xchange-btctrade" />
+    <orderEntry type="module" module-name="xchange-bter" />
+    <orderEntry type="module" module-name="xchange-campbx" />
+    <orderEntry type="module" module-name="xchange-cavirtex" />
+    <orderEntry type="module" module-name="xchange-ccex" />
+    <orderEntry type="module" module-name="xchange-cexio" />
+    <orderEntry type="module" module-name="xchange-chbtc" />
+    <orderEntry type="module" module-name="xchange-clevercoin" />
+    <orderEntry type="module" module-name="xchange-coinbase" />
+    <orderEntry type="module" module-name="xchange-coinbaseex" />
+    <orderEntry type="module" module-name="xchange-coinfloor" />
+    <orderEntry type="module" module-name="xchange-coinmate" />
+    <orderEntry type="module" module-name="xchange-coinsetter" />
+    <orderEntry type="module" module-name="xchange-cointrader" />
+    <orderEntry type="module" module-name="xchange-core" />
+    <orderEntry type="module" module-name="xchange-cryptofacilities" />
+    <orderEntry type="module" module-name="xchange-cryptonit" />
+    <orderEntry type="module" module-name="xchange-cryptsy" />
+    <orderEntry type="module" module-name="xchange-empoex" />
+    <orderEntry type="module" module-name="xchange-examples" />
+    <orderEntry type="module" module-name="xchange-gatecoin" />
+    <orderEntry type="module" module-name="xchange-gdax" />
+    <orderEntry type="module" module-name="xchange-gemini" />
+    <orderEntry type="module" module-name="xchange-hitbtc" />
+    <orderEntry type="module" module-name="xchange-huobi" />
+    <orderEntry type="module" module-name="xchange-independentreserve" />
+    <orderEntry type="module" module-name="xchange-itbit" />
+    <orderEntry type="module" module-name="xchange-jubi" />
+    <orderEntry type="module" module-name="xchange-kraken" />
+    <orderEntry type="module" module-name="xchange-lakebtc" />
+    <orderEntry type="module" module-name="xchange-livecoin" />
+    <orderEntry type="module" module-name="xchange-loyalbit" />
+    <orderEntry type="module" module-name="xchange-mercadobitcoin" />
+    <orderEntry type="module" module-name="xchange-mexbt" />
+    <orderEntry type="module" module-name="xchange-okcoin" />
+    <orderEntry type="module" module-name="xchange-openexchangerates" />
+    <orderEntry type="module" module-name="xchange-parent" />
+    <orderEntry type="module" module-name="xchange-paymium" />
+    <orderEntry type="module" module-name="xchange-poloniex" />
+    <orderEntry type="module" module-name="xchange-quadrigacx" />
+    <orderEntry type="module" module-name="xchange-quoine" />
+    <orderEntry type="module" module-name="xchange-ripple" />
+    <orderEntry type="module" module-name="xchange-taurus" />
+    <orderEntry type="module" module-name="xchange-therock" />
+    <orderEntry type="module" module-name="xchange-vaultoro" />
+    <orderEntry type="module" module-name="xchange-vircurex" />
+    <orderEntry type="module" module-name="xchange-yacuna" />
+    <orderEntry type="module" module-name="xchange-yobit" />
+    <orderEntry type="module" module-name="xchart" />
+    <orderEntry type="module" module-name="xchart-demo" />
+    <orderEntry type="module" module-name="xchart-parent" />
+    <orderEntry type="module" module-name="gson" />
+    <orderEntry type="module" module-name="gson-parent" />
+    <orderEntry type="library" name="Maven: org.reflections:reflections:0.9.10" level="project" />
+  </component>
+</module>
